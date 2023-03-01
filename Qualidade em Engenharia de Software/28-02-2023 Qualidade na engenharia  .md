@@ -11,7 +11,7 @@ José Carlos Sá: ""
 	- Systematic Improvement of Processes
 - DMAIC vs DMADV
 
-- [ ] "Total Quality Management" - José Carlos Sá 
+- [ ] "[Total Quality Management](https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=TrT1qSUAAAAJ&citation_for_view=TrT1qSUAAAAJ:IWHjjKOFINEC)" - José Carlos Sá 
 
 - EFQM European Foundation for Quality Management
 - Shingo Model and Shingo Prize

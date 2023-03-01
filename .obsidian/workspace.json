@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c73bfb975ed227cb",
+        "id": "7950e476538cdd16",
         "type": "tabs",
         "children": [
           {
-            "id": "3b85f4a68df02584",
+            "id": "cc7ae9565f0c372b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "ba749f84c7f5d677",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,16 +159,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b85f4a68df02584",
+  "active": "cc7ae9565f0c372b",
   "lastOpenFiles": [
+    "Técnicas Avançadas em Programação/23-01-2023 Getting Started com Scala.md",
+    "Técnicas Avançadas em Programação/22-02-2023 O básico da programação funcional .md",
+    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
+    "Técnicas Avançadas em Programação/01-03-2023 Funções de alto nível.md",
+    "Técnicas Avançadas em Programação/.md",
+    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia  .md",
+    "Sistemas de Informação Empresariais/28-02-2023 Aula prática.md",
+    "Planejamento de estudos.md",
+    "Finalizar TAP_PL_01.md",
     "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina .md",
     "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
-    "Planejamento de estudos.md",
-    "Qualidade em Engenharia de Software/27-02-2023 Ética em Engenharia de Software.md",
-    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia  .md",
     "Integração de Sistemas/24-02-2023 Microsserviços.md",
+    "prisma.thetacollaborative.ca.md",
+    "Qualidade em Engenharia de Software/27-02-2023 Ética em Engenharia de Software.md",
     "Funções de alto nível.md",
-    "Finalizar TAP_PL_01.md",
     "Sistemas de Informação Empresariais/Untitled Kanban.md",
     "28-02-202 28-02-2023 Qualidade na engenharia.md",
     "Qualidade em Engenharia de Software/Untitled.md",
