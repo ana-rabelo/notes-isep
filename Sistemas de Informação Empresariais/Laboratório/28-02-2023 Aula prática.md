@@ -47,3 +47,6 @@ Se propõe a responder uma pergunta específica, para isso utiliza métodos sist
 Fazer uma cópia do diagrama do PRISMA para usar durante as pesquisas
 #### STEP 2 Busca no banco de dados
 Para cada banco de dados insira a chave de pesquisa individualmente. Isso deve incluir TODOS os termos pesquisados. 
+
+- [ ] https://link.springer.com/article/10.1007/s10845-018-1433-8 ⏫ 
+- [ ] 

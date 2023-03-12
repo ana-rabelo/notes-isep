@@ -49,5 +49,34 @@ def nSymbol(i: Int, c: Char, s: String): String =
 ```
 
 3. Escreva uma função ``mult`` que recebe dois argumentos que retorna a multiplicação de dois valores. A multiplicação deve ser computada usando somas. Por exemplo, 4 * 3 = 4 + 4 + 4 = 3 + 3 + 3 + 3
-4. O MMC de dois inteiros é definido como o maior número que divide os dois inteiros sem resto. Por exemplo, o MMC de 16 e 28 é 4.
-	O algoritmo de Euclide é baseado na observação que, se r é o resto quando a é dividido por b, então o divisor comun de a e b são precisamente o mesmo que b e r. Além disso podemos usar a 
+```scala
+def multi(x:Int, y: Int): Int = 
+	if(x == 0 || y == 0) 0
+	else if (y > 0) x + mult(x, y - 1)  
+	else -(mult(x, -y))
+```
+
+4. O MDC de dois inteiros é definido como o maior número que divide os dois inteiros sem resto. Por exemplo, o MDC de 16 e 28 é 4.
+	O algoritmo de Euclides é baseado na observação que, se ``r`` é o resto quando ``a`` é dividido por ``b``, então o divisor comum de a e b são precisamente o mesmo que b e r. 
+	É possível mostrar que começar com qualquer dois inteiros positivos e performar reduções sucessivas vai sempre produzir um par onde o segundo número é igual a 0. Então o MDC vai ser o outro número do par.
+	Defina uma função recursiva baseada no ``Algoritmo de Euclides``.
+   ``` scala
+def gcd(x: Int, y: Int): Int = {
+	if (y != 0)
+	    gcd(y, x % y)
+	else x
+}
+```
+
+5. No triângulo de Pascal os números nas bordas são todos iguais a 1, e cada número dentro do triângulo é a soma dos dois números acima dele. Escreva uma função recursiva ``pascal`` que compute todos os elementos do triângulo de Pascal, considerando cada coluna e linha.
+```scala
+def pascal(row: Int, col: Int): Int = {  
+	if (row == 1 && col == 1) 1  
+	else if (row == 0 || col == 0) 0  
+	else pascal(row - 1, col - 1) + pascal(row - 1, col)  
+}
+```
+
+### Tail Recursion
+Se uma função só chama ela mesma em último caso, a pilha da função pode ser reusada. Isso é chamado de *<mark style="background: #FFB8EBA6;">tail recursion</mark>*. 
+Em Scala, apenas as chamadas recursivas diretas para a mesma função são otimizadas. Usamos a notação ``@tailrec":

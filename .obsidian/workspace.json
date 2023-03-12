@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7950e476538cdd16",
+        "id": "fbaa38183321c875",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7ae9565f0c372b",
+            "id": "ec93afc87683b7df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "ba749f84c7f5d677",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md"
+              }
             }
           },
           {
@@ -152,50 +159,57 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc7ae9565f0c372b",
+  "active": "39f05e9a557fb3fd",
   "lastOpenFiles": [
-    "Técnicas Avançadas em Programação/23-01-2023 Getting Started com Scala.md",
-    "Técnicas Avançadas em Programação/22-02-2023 O básico da programação funcional .md",
-    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
-    "Técnicas Avançadas em Programação/01-03-2023 Funções de alto nível.md",
-    "Técnicas Avançadas em Programação/.md",
-    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia  .md",
-    "Sistemas de Informação Empresariais/28-02-2023 Aula prática.md",
-    "Planejamento de estudos.md",
-    "Finalizar TAP_PL_01.md",
-    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina .md",
-    "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
     "Integração de Sistemas/24-02-2023 Microsserviços.md",
+    "Integração de Sistemas/02-03-2023.md",
+    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
+    "Técnicas Avançadas em Programação/01-03-2023 Funções de alto nível.md",
+    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
+    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
+    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
+    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
+    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas [EDITAR].md",
+    "Sistemas de Informação Empresariais/Untitled.md",
+    "Planejamento de estudos.md",
+    "Qualidade em Engenharia de Software/07-03-2023.md",
+    "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
+    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina [EDITAR}.md",
+    "Sistemas de Informação Empresariais/Laboratório/28-02-2023 Aula prática.md",
+    "Qualidade em Engenharia de Software/06-03-2023 Measures and metrics [EDITAR].md",
+    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia [EDITAR].md",
+    "Qualidade em Engenharia de Software/Laboratório/06-03-2023 CMMI and CMMI-DEV.md",
+    "Qualidade em Engenharia de Software/Laboratório/27-02-2023 Ética em Engenharia de Software.md",
+    "Sistemas de Informação Empresariais/Laboratório",
+    "Qualidade em Engenharia de Software/Laboratório",
+    "Integração de Sistemas/Laboratório",
+    "01-03-2023.md",
+    "lab02.zip",
+    "Não confirmado 941285.crdownload",
+    "Técnicas Avançadas em Programação/Laboratório",
+    "Técnicas Avançadas em Programação/.md",
+    "Finalizar TAP_PL_01.md",
     "prisma.thetacollaborative.ca.md",
-    "Qualidade em Engenharia de Software/27-02-2023 Ética em Engenharia de Software.md",
     "Funções de alto nível.md",
     "Sistemas de Informação Empresariais/Untitled Kanban.md",
     "28-02-202 28-02-2023 Qualidade na engenharia.md",
-    "Qualidade em Engenharia de Software/Untitled.md",
-    "Pasted image 20230228154924.png.md",
-    "Horário de aulas.md",
     "Pasted image 20230228161553.png",
     "Pasted image 20230228161539.png",
-    "Paste.md",
     "Pasted image 20230228154834.png",
     "Pasted image 20230228154924.png",
     "Pasted image 20230228154913.png",
     "Pasted image 20230228154901.png",
     "Pasted image 20230228154842.png",
-    "Integração de Sistemas/🗃 Integração de Sistemas.md",
     "Integração de Sistemas",
-    "🗃 Integração de Sistemas/24-02-2023 Microserviços.md",
     "Context",
     "Horário.canvas",
     "Sistemas de Informação Empresariais",
-    "Técnicas Avançadas em Programação",
-    "Qualidade em Engenharia de Software"
+    "Técnicas Avançadas em Programação"
   ]
 }
