@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbaa38183321c875",
+        "id": "06d7792acb9c5299",
         "type": "tabs",
         "children": [
           {
-            "id": "ec93afc87683b7df",
+            "id": "fe4c78f54bbc0755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md",
+                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md",
+                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md",
+                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integração de Sistemas/24-02-2023 Microsserviços.md"
+                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md"
               }
             }
           },
@@ -165,27 +165,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39f05e9a557fb3fd",
+  "active": "fe4c78f54bbc0755",
   "lastOpenFiles": [
-    "Integração de Sistemas/24-02-2023 Microsserviços.md",
-    "Integração de Sistemas/02-03-2023.md",
-    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
-    "Técnicas Avançadas em Programação/01-03-2023 Funções de alto nível.md",
-    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
-    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
-    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
-    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
-    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas [EDITAR].md",
-    "Sistemas de Informação Empresariais/Untitled.md",
     "Planejamento de estudos.md",
     "Qualidade em Engenharia de Software/07-03-2023.md",
-    "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
-    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina [EDITAR}.md",
-    "Sistemas de Informação Empresariais/Laboratório/28-02-2023 Aula prática.md",
     "Qualidade em Engenharia de Software/06-03-2023 Measures and metrics [EDITAR].md",
-    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia [EDITAR].md",
+    "Integração de Sistemas/02-03-2023.md",
+    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
+    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas.md",
+    "Técnicas Avançadas em Programação/01-03-2023 Funções de alto nível.md",
+    "Sistemas de Informação Empresariais/14-03-2023 PRISMA Palestra.md",
+    "Sistemas de Informação Empresariais/Untitled.md",
+    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina [EDITAR}.md",
+    "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
+    "Qualidade em Engenharia de Software/Laboratório/13-03-2023 Performance.md",
     "Qualidade em Engenharia de Software/Laboratório/06-03-2023 CMMI and CMMI-DEV.md",
     "Qualidade em Engenharia de Software/Laboratório/27-02-2023 Ética em Engenharia de Software.md",
+    "Técnicas Avançadas em Programação/06-03-2023 Scala Collections.md",
+    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
+    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
+    "Integração de Sistemas/24-02-2023 Microsserviços.md",
+    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
+    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
+    "Sistemas de Informação Empresariais/Laboratório/28-02-2023 Aula prática.md",
+    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia [EDITAR].md",
     "Sistemas de Informação Empresariais/Laboratório",
     "Qualidade em Engenharia de Software/Laboratório",
     "Integração de Sistemas/Laboratório",
@@ -195,10 +199,6 @@
     "Técnicas Avançadas em Programação/Laboratório",
     "Técnicas Avançadas em Programação/.md",
     "Finalizar TAP_PL_01.md",
-    "prisma.thetacollaborative.ca.md",
-    "Funções de alto nível.md",
-    "Sistemas de Informação Empresariais/Untitled Kanban.md",
-    "28-02-202 28-02-2023 Qualidade na engenharia.md",
     "Pasted image 20230228161553.png",
     "Pasted image 20230228161539.png",
     "Pasted image 20230228154834.png",

@@ -1,0 +1,1 @@
+1. Na engenharia de Software, as KPI são indicadores utilizados para medir o desempenho do software ou dos seus processos de desenvolvimento. Possuem 3 propósitos principais: entender, controlar e melhorar.  
