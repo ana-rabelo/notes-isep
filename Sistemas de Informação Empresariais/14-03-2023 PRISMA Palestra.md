@@ -60,7 +60,6 @@
 
 - Primeira revisão do trabalho: 12/04
 
-
 1. Entenda o tópico
 2. Defina a [pergunta](https://link.springer.com/article/10.1007/s10462-020-09809-6/tables/1) da pesquisa
 3. Defina a estratégia da pesquisa (tentativa e erro)

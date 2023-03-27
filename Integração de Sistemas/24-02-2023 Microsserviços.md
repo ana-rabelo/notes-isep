@@ -46,7 +46,7 @@ Exchanges podem ser duráveis ou transitórias. Exchanges duráveis sobrevivem a
 <span style="color:#8380B6"><b>Exchanges Padrão</b></span>
 A exchange padrão é uma exchange direta sem nome (string vazia) pré-declarada pelo broker. Tem uma propriedade especial que a torna muito útil para aplicações simples: toda fila que é criada é automaticamente vinculada à exchange por uma chave de roteamento que é a mesma do nome da fila.
 
-Por exemplo, quando você declara uma filma com o nome de "search-indexing-online", o broker do AMQP 0-9-1 vai se vincular à exchange padrão usando "search-indexing-online" como chave de roteamento. Além disso, uma mensagem publicada na exchange padrão com a chave "search-indexing-online" vai ser roteada para a fila "search-indexing-online". Em outras palavras, a exchange padrão faz parecer que é possível entregar mensagens diretamente à filas, mesmo que não seja isso, tecnicamente.
+Por exemplo, quando você declara uma fila com o nome de "search-indexing-online", o broker do AMQP 0-9-1 vai se vincular à exchange padrão usando "search-indexing-online" como chave de roteamento. Além disso, uma mensagem publicada na exchange padrão com a chave "search-indexing-online" vai ser roteada para a fila "search-indexing-online". Em outras palavras, a exchange padrão faz parecer que é possível entregar mensagens diretamente à filas, mesmo que não seja isso, tecnicamente.
 
 <span style="color:#8380B6"><b>Direct Exchange</b></span>
 Entrega mensagens para filas baseadas na chave de roteamento da mensagem. Uma exchange direta é ideal para mensagens de roteamento unicast. Funciona assim:

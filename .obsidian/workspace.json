@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06d7792acb9c5299",
+        "id": "b649bf2aefca3d4b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe4c78f54bbc0755",
+            "id": "4fdeae861edf82ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+                "file": "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "ba749f84c7f5d677",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+                "file": "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+                "file": "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md"
+                "file": "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md"
               }
             }
           },
@@ -165,40 +166,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe4c78f54bbc0755",
+  "active": "4fdeae861edf82ad",
   "lastOpenFiles": [
+    "Qualidade em Engenharia de Software/27-03-2023 Verificando a conformidade arquitetônica .md",
+    "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
     "Planejamento de estudos.md",
-    "Qualidade em Engenharia de Software/07-03-2023.md",
-    "Qualidade em Engenharia de Software/06-03-2023 Measures and metrics [EDITAR].md",
-    "Integração de Sistemas/02-03-2023.md",
-    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
-    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
-    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas.md",
-    "Técnicas Avançadas em Programação/01-03-2023 Funções de alto nível.md",
-    "Sistemas de Informação Empresariais/14-03-2023 PRISMA Palestra.md",
-    "Sistemas de Informação Empresariais/Untitled.md",
-    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina [EDITAR}.md",
+    "Qualidade em Engenharia de Software/Laboratório/27-02-2023 Ética em Engenharia de Software.md",
+    "Recording 20230327170108.webm",
+    "Qualidade em Engenharia de Software/27-03-2023 Como medir qualidade.md",
+    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia.md",
+    "Qualidade em Engenharia de Software/06-03-2023 Measures and metrics.md",
     "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
+    "Integração de Sistemas/24-02-2023 Microsserviços.md",
+    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
+    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
     "Qualidade em Engenharia de Software/Laboratório/13-03-2023 Performance.md",
     "Qualidade em Engenharia de Software/Laboratório/06-03-2023 CMMI and CMMI-DEV.md",
-    "Qualidade em Engenharia de Software/Laboratório/27-02-2023 Ética em Engenharia de Software.md",
-    "Técnicas Avançadas em Programação/06-03-2023 Scala Collections.md",
-    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
-    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
-    "Integração de Sistemas/24-02-2023 Microsserviços.md",
-    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
-    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
+    "Sistemas de Informação Empresariais/Untitled.md",
     "Sistemas de Informação Empresariais/Laboratório/28-02-2023 Aula prática.md",
-    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia [EDITAR].md",
+    "Sistemas de Informação Empresariais/14-03-2023 PRISMA Palestra.md",
+    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina [EDITAR}.md",
+    "TEMAS.md",
+    "README.md",
+    "Técnicas Avançadas em Programação/Laboratório/15-03-2023 Listas.md",
+    "Técnicas Avançadas em Programação/Laboratório/22-03-2023 Traits, Case classes & Objects.md",
+    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
+    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas.md",
+    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
+    "Técnicas Avançadas em Programação/01-03-2023 Closures, Currying e Composition.md",
     "Sistemas de Informação Empresariais/Laboratório",
     "Qualidade em Engenharia de Software/Laboratório",
     "Integração de Sistemas/Laboratório",
-    "01-03-2023.md",
     "lab02.zip",
     "Não confirmado 941285.crdownload",
     "Técnicas Avançadas em Programação/Laboratório",
-    "Técnicas Avançadas em Programação/.md",
-    "Finalizar TAP_PL_01.md",
     "Pasted image 20230228161553.png",
     "Pasted image 20230228161539.png",
     "Pasted image 20230228154834.png",
@@ -209,7 +211,6 @@
     "Integração de Sistemas",
     "Context",
     "Horário.canvas",
-    "Sistemas de Informação Empresariais",
-    "Técnicas Avançadas em Programação"
+    "Sistemas de Informação Empresariais"
   ]
 }
