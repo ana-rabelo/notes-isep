@@ -15,7 +15,7 @@ kanban-plugin: basic
 
 ## IN PROGRESS
 
-- [ ] <span style="color:#FF7043"><b>INSIS </b></span> Step 1 do WSO2 API Manager
+- [ ] - [ ! ] <span style="color:#FF7043"><b>INSIS </b></span> Step 1 do WSO2 API Manager
 
 
 ## DONE

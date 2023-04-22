@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "97106554d4844c28",
+        "id": "37d06c9a15b1521c",
         "type": "tabs",
         "children": [
           {
-            "id": "3a35c0e2ac8f44dc",
+            "id": "6f0eed0d60ef1072",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Integração de Sistemas/21-04-2023 WSO2 API-M.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "right": {
     "id": "ba749f84c7f5d677",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Integração de Sistemas/21-04-2023 WSO2 API-M.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Integração de Sistemas/21-04-2023 WSO2 API-M.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Integração de Sistemas/21-04-2023 WSO2 API-M.md"
+              }
             }
           },
           {
@@ -157,36 +166,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a35c0e2ac8f44dc",
+  "active": "6f0eed0d60ef1072",
   "lastOpenFiles": [
-    "TEMAS.md",
-    "Integração de Sistemas/21-04-2023 WSO2 API-M.md",
     "Planejamento de estudos.md",
+    "Integração de Sistemas/21-04-2023 WSO2 API-M.md",
+    "Qualidade em Engenharia de Software/Untitled",
+    "Untitled.md",
+    "Técnicas Avançadas em Programação/Laboratório/22-03-2023 Traits, Case classes & Objects.md",
+    "Técnicas Avançadas em Programação/Laboratório/29-03-2023 Functional Domain Modeling.md",
+    "Técnicas Avançadas em Programação/Laboratório/15-03-2023 Listas.md",
+    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
+    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
+    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
+    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
+    "Técnicas Avançadas em Programação/01-03-2023 Closures, Currying e Composition.md",
+    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas.md",
+    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
+    "TEMAS.md",
     "Integração de Sistemas/Untitled.md",
     "Integração de Sistemas/Images",
     "Integração de Sistemas/Images/Pasted image 20230421213409.png",
     "Integração de Sistemas/24-02-2023 AMQP e RabbitMQ.md",
     "Integração de Sistemas/.md",
-    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
-    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas.md",
-    "Técnicas Avançadas em Programação/01-03-2023 Closures, Currying e Composition.md",
-    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
-    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
-    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
-    "Técnicas Avançadas em Programação/Laboratório/29-03-2023 Functional Domain Modeling.md",
-    "Técnicas Avançadas em Programação/Laboratório/22-03-2023 Traits, Case classes & Objects.md",
-    "Técnicas Avançadas em Programação/Laboratório/15-03-2023 Listas.md",
-    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
     "README.md",
-    "Técnicas Avançadas em Programação/Laboratório/01-03-2023 Mais funções.md",
     "Qualidade em Engenharia de Software/27-03-2023 Como medir qualidade.md",
     "Qualidade em Engenharia de Software/06-03-2023 Measures and metrics.md",
     "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia.md",
     "Sistemas de Informação Empresariais/Untitled.md",
     "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
     "Qualidade em Engenharia de Software/27-03-2023 Verificando a conformidade arquitetônica .md",
-    "Qualidade em Engenharia de Software/Project P1.md",
-    "Qualidade em Engenharia de Software/Laboratório/13-03-2023 Performance.md",
     "Recording 20230327170108.webm",
     "Sistemas de Informação Empresariais/Laboratório",
     "Qualidade em Engenharia de Software/Laboratório",
@@ -202,7 +211,6 @@
     "Pasted image 20230228154901.png",
     "Pasted image 20230228154842.png",
     "Integração de Sistemas",
-    "Context",
     "Horário.canvas"
   ]
 }
