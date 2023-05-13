@@ -1,4 +1,4 @@
-- O que é uma revisão sistemática?
+- O que é uma <mark style="background: #CACFD9A6;">revisão sistemática</mark>?
 
 - [PRISMA Flow Diagram Application](http://prisma-statement.org/)
 
@@ -10,6 +10,7 @@
 2. *Checklist* da recomendação PRISMA
 	- Registro detalhado de protocolos de revisões sistemáticas relevantes
 	- Define critérios de elegibilidade (27 itens)
+
 #### **Levantamento ou Revisão**
 3. Teste de aderência e definição das palavras-chave
 	   - Listagem inicial de todas as palavras que estão relacionadas com o tema, tópico de pesquisa problema e objetivos.

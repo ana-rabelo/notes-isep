@@ -14,10 +14,5 @@ Checar problemas relacionados com o uso de dependência de pacotes, de classes, 
 
 
 - Quais diagramas são necessários?
-
-
-
-
-
-
-test smells
+> Diagrama de classes
+> Diagrama de componentes
