@@ -1,5 +1,5 @@
 ### Pattern Matching
-> O scala tem um padrão de matching geral que permite fazer a correspondência de qualquer tipo de data com uma **<mark style="background: #FFB8EBA6;">política de first-match</mark>**.
+> O scala tem um padrão de matching geral que permite fazer a correspondência de qualquer tipo de data com uma <mark style="background: #ADCCFFA6;">política de first-match</mark>
 
 ```scala
 def matchTest(x: Int): String = x match

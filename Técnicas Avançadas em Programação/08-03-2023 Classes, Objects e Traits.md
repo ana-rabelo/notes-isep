@@ -33,7 +33,8 @@ final case class Mul[A](a:Expr[A], b:Expr[A]) extends Expr[A]
 final case class Div[A](a:Expr[A], b:Expr[A]) extends Expr[A] 
 final case class Val[A](v: A) extends Expr[A]
 ```
-📢 Ao definir uma classe selada (`sealed`) precisamos garantir que todas as suas sub-classes sejam definidas no mesmo arquivo e, portanto, conhecidas em tempo de compilação. Assim, precisamos tornar todas as sub-classes (`Sum`, `Sub`, `Mul`, ...) da classe em seladas ou finais.
+> [!info]
+> Ao definir uma classe selada (`sealed`) precisamos garantir que todas as suas sub-classes sejam definidas no mesmo arquivo e, portanto, conhecidas em tempo de compilação. Assim, precisamos tornar todas as sub-classes (`Sum`, `Sub`, `Mul`, ...) da classe em seladas ou finais.
 
 Decompomos usando pattern matching:
 ```scala
@@ -49,7 +50,9 @@ val(Sum(val(1), val(2)))
 
 #### Companion Objects
 > São objetos *singleton*, que são definidos por uma classe, por convenção com o mesmo nome.
-> 💭 Ou seja, se tivermos uma classe chamada `MinhaClasse`, podemos definir um *companion object* com o mesmo nome `object MinhaClasse` no mesmo arquivo e escopo.
+
+>[!question] Ou seja...
+> Se tivermos uma classe chamada `MinhaClasse`, podemos definir um *companion object* com o mesmo nome `object MinhaClasse` no mesmo arquivo e escopo.
 
 > Uma classe compartilha todos os seus acessos com seus companion objects e vice-versa. Podem ser usados para definir construtores alternativos para a classe.
 > Uma classes e seus objetos companion deve ser definidas em um mesmo file.

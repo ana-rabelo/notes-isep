@@ -1,6 +1,6 @@
 ### Scala Test
 
-- [ ] PL 02 📅 2023-03-07 ⏫ ⏳
+- [x] PL 02 📅 2023-03-07 ⏫ ⏳
 
 Usaremos o ``AnyFunSuite``, um estilo de teste.
 1. Clone ``emptyScala3Project``. Mude o nome em *build.sbt* para "lab02".

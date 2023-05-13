@@ -1,4 +1,4 @@
-> Funções que recebem outras funções como parâmetros ou retornam outras funções como resultado são chamadas de **<mark style="background: #FFB8EBA6;">funções de alto nível</mark>**.
+> Funções que recebem outras funções como parâmetros ou retornam outras funções como resultado são chamadas de <mark style="background: #FFB86CA6;">funções de alto nível</mark>.
 
 ``` scala
 object MyModule:
@@ -100,5 +100,5 @@ Pode ser aplicada parcialmente:
 ```scala
 val v1 = sum(3, _ : Int, 12)
 
-v1(14) //= 29
+v1(14) // = 29
 ```
