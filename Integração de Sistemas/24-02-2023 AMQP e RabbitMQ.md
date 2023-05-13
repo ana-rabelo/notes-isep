@@ -8,7 +8,7 @@ O Advanced Message Queuing Protocolo é um protocolo de comunicação que permit
 
 <b>Brokers de messagens</b> recebem mensagens dos <i>publishers</i> (aplicações que as publicam, também conhecidos como producers) e as roteiam para os <i>consumers</i> (aplicações que as recebem). Por ser um protocolo de rede, os publishers, consumers e o broker podem residir em máquinas diferentes.
 
-O Modelo AMQP 0-9-1 funciona da seguinte maneira:
+> [!info] O Modelo AMQP 0-9-1 funciona da seguinte maneira
 > As mensagens são publicadas pelos <i>publishers</i> e enviadas às *exchanges*. As *exchanges* distribuem cópias das mensagens para filas utilizando regras que são chamadas de *bindings*.
 > Então o broker ou envia as mensagens aos *consumers* inscritos nas filas ou os *consumers* "puxam" (*fetch/pull*) as mensagens das filas por demanda.
 
