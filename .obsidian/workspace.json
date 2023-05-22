@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13ac2680c9f1a4fe",
+        "id": "5996ee2d657b5f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "57694655b8886b35",
+            "id": "e6d07d877e64f37b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
-                "mode": "source",
-                "source": false
+                "file": "Planejamento de estudos.md"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
+                "file": "Planejamento de estudos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
+                "file": "Planejamento de estudos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md"
+                "file": "Planejamento de estudos.md"
               }
             }
           },
@@ -173,37 +171,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57694655b8886b35",
+  "active": "e6d07d877e64f37b",
   "lastOpenFiles": [
-    "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
+    "Qualidade em Engenharia de Software/Project P2.md",
     "Qualidade em Engenharia de Software/Project P1.md",
-    "Integração de Sistemas/12-05-2023 WSO2 API-M - Integration.md",
-    "Integração de Sistemas/21-04-2023 WSO2 API-M - API Management.md",
-    "Integração de Sistemas/Images/Pasted image 20230512224253.png",
-    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
-    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
-    "Técnicas Avançadas em Programação/01-03-2023 Closures, Currying e Composition.md",
-    "Técnicas Avançadas em Programação/28-02-2023 Funções de alto nível.md",
-    "Técnicas Avançadas em Programação/23-01-2023 Começando com Scala.md",
-    "Técnicas Avançadas em Programação/Laboratório/[EDIT] 22-03-2023 Traits, Case classes & Objects.md",
-    "Técnicas Avançadas em Programação/Laboratório/29-03-2023 Functional Domain Modeling.md",
-    "Técnicas Avançadas em Programação/Laboratório/[EDIT] 15-03-2023 Listas.md",
-    "Técnicas Avançadas em Programação/Laboratório/22-02-2023 O básico da programação funcional .md",
-    "Técnicas Avançadas em Programação/06-03-2023 Pattern Matching e Listas.md",
-    "Untitled.md",
-    "Sistemas de Informação Empresariais/Untitled.md",
-    "Planejamento de estudos.md",
-    "Qualidade em Engenharia de Software/Laboratório/13-03-2023 Performance.md",
+    "Sistemas de Informação Empresariais/Projeto P2 - 18-06-2023.md",
+    "Qualidade em Engenharia de Software/27-03-2023 Medindo manutenibilidade.md",
+    "Qualidade em Engenharia de Software/27-03-2023 Verificando a conformidade arquitetônica .md",
     "Qualidade em Engenharia de Software/27-03-2023 Como medir qualidade.md",
+    "Qualidade em Engenharia de Software/06-03-2023 Measures and metrics.md",
+    "Qualidade em Engenharia de Software/28-02-2023 Qualidade na engenharia.md",
+    "Qualidade em Engenharia de Software/Laboratório/13-03-2023 Performance.md",
+    "Qualidade em Engenharia de Software/Laboratório/06-03-2023 CMMI and CMMI-DEV.md",
+    "Qualidade em Engenharia de Software/Laboratório/27-02-2023 Ética em Engenharia de Software.md",
+    "Técnicas Avançadas em Programação/Laboratório/29-03-2023 Functional Domain Modeling.md",
+    "Técnicas Avançadas em Programação/Laboratório/[EDIT] 22-03-2023 Traits, Case classes & Objects.md",
+    "Técnicas Avançadas em Programação/08-03-2023 Classes, Objects e Traits.md",
+    "Técnicas Avançadas em Programação/13-03-2023 Variance, Type Bounds and Phantom Types.md",
+    "Integração de Sistemas/Project 2 - 18-06-2023.md",
+    "Integração de Sistemas/21-04-2023 WSO2 API-M - API Management.md",
+    "Integração de Sistemas/12-05-2023 WSO2 API-M - Integration.md",
+    "Integração de Sistemas/24-02-2023 AMQP e RabbitMQ.md",
     "Sistemas de Informação Empresariais/28-02-2023 Revisão sistemática PRISMA.md",
     "Sistemas de Informação Empresariais/14-03-2023 PRISMA Palestra.md",
-    "Integração de Sistemas/24-02-2023 AMQP e RabbitMQ.md",
-    "Sistemas de Informação Empresariais/28-02-202 Apresentação da disciplina [EDITAR}.md",
+    "Planejamento de estudos.md",
+    "Sistemas de Informação Empresariais/Images/Process monitoring and controlling.png",
+    "Sistemas de Informação Empresariais/Images/Process implementation.png",
+    "Sistemas de Informação Empresariais/Images/The Process Redesign Orbit.png",
+    "Sistemas de Informação Empresariais/Images/Process redesign.png",
+    "Sistemas de Informação Empresariais/Images/Quantitative process analysis.png",
+    "Sistemas de Informação Empresariais/Images/Qualitative process analysis.png",
+    "Sistemas de Informação Empresariais/Images/Process discovery Invoice handling example.png",
+    "Sistemas de Informação Empresariais/Images/Example prioritized process portfolio.png",
+    "Sistemas de Informação Empresariais/Images/Example process architecture.png",
+    "Sistemas de Informação Empresariais/Images/The BPM lifecycle.png",
+    "Sistemas de Informação Empresariais/Untitled.md",
+    "Sistemas de Informação Empresariais/Images",
+    "Sistemas de Informação Empresariais/28-02-2023 Apresentação da disciplina.md",
     "Sistemas de Informação Empresariais/Laboratório/28-02-2023 Aula prática.md",
-    "Qualidade em Engenharia de Software/27-03-2023 Verificando a conformidade arquitetônica .md",
+    "Técnicas Avançadas em Programação/01-03-2023 Closures, Currying e Composition.md",
     "Qualidade em Engenharia de Software/Untitled",
     "Integração de Sistemas/Images",
-    "Integração de Sistemas/Images/Pasted image 20230421213409.png",
     "Recording 20230327170108.webm",
     "Sistemas de Informação Empresariais/Laboratório",
     "Qualidade em Engenharia de Software/Laboratório",
@@ -211,14 +219,6 @@
     "lab02.zip",
     "Não confirmado 941285.crdownload",
     "Técnicas Avançadas em Programação/Laboratório",
-    "Pasted image 20230228161553.png",
-    "Pasted image 20230228161539.png",
-    "Pasted image 20230228154834.png",
-    "Pasted image 20230228154924.png",
-    "Pasted image 20230228154913.png",
-    "Pasted image 20230228154901.png",
-    "Pasted image 20230228154842.png",
-    "Integração de Sistemas",
     "Horário.canvas"
   ]
 }

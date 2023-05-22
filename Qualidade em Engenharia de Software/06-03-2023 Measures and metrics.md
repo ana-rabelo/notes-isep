@@ -5,7 +5,7 @@
 
 Medimos coisas no nosso dia-a-dia  e usamos escalas para isso.
 
-Na engenharia de software. as medições são utilizadas no processo de desenvolvimento e do produto, com os objetivos de **entender**, **controlar** e **melhorar**. 
+Na engenharia de software, as medições são utilizadas no processo de desenvolvimento e do produto, com os objetivos de **entender**, **controlar** e **melhorar**. 
 
 - Quer dizer que eu não tenho problemas ou que não encontrei problemas? (erros)
 -  Objetivo x Subjetivo
