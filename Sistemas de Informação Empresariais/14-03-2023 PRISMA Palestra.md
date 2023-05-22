@@ -1,6 +1,4 @@
 
-- [ ] Pesquisar ""
-
 - Encontrar respostas sobre um tema específico (fazer a pergunta chave)
 - Deve seguir um fluxo de trabalho que permita que outros pesquisadores encontrem o mesmo resultado
 - Deve seguir um conjunto de passos, do desenvolvimento do protocolo de revisão; questões de pesquisa, o processamento, análise, etc.
