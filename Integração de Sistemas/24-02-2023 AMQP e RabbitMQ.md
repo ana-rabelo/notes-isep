@@ -6,7 +6,7 @@ tag: amqp, rabbitmq, INSIS
 <span style="color:#8380B6"><b>O que é o AMQP 0-9-1?</b></span>
 O Advanced Message Queuing Protocolo é um protocolo de comunicação que permite que os aplicativos cliente se comuniquem com os corretores de middleware brokers.
 
-<b>Brokers de messagens</b> recebem mensagens dos <i>publishers</i> (aplicações que as publicam, também conhecidos como producers) e as roteiam para os <i>consumers</i> (aplicações que as recebem). Por ser um protocolo de rede, os publishers, consumers e o broker podem residir em máquinas diferentes.
+<b>Brokers de mensagens</b> recebem mensagens dos <i>publishers</i> (aplicações que as publicam, também conhecidos como producers) e as roteiam para os <i>consumers</i> (aplicações que as recebem). Por ser um protocolo de rede, os publishers, consumers e o broker podem residir em máquinas diferentes.
 
 > [!info] O Modelo AMQP 0-9-1 funciona da seguinte maneira
 > As mensagens são publicadas pelos <i>publishers</i> e enviadas às *exchanges*. As *exchanges* distribuem cópias das mensagens para filas utilizando regras que são chamadas de *bindings*.
@@ -28,12 +28,13 @@ Aplicações declaram as entidades de AMQP 0-9-1 que eles precisam, definem os e
 
 <span style="color:#8380B6"><b>Exchanges e Tipos de Exchanges</b></span>
 *Exchanges* são entidades AMQP 0-9-1 para onde as mensagens são enviadas. Elas pegam a mensagem e roteam em zero ou mais filas. O algoritmo de roteamento usado depende do ***tipo de exchange*** e regras chamadas ***bindings***. Existem quatro tipos:
+
 | **Tipo exchange** |   **Nomes padrão pré-declarados**    |
 |:-----------------:|:------------------------------------:|
 |  Direct exchange  |     (Empty string) e amq.direct      |
 |  Fanout exchange  |              amq.fanout              |
 |  Topic exchange   |              amq.topic               |
-| Headers exchange  | amq.match (e amq.headers no RabbitMQ |                                          
+| Headers exchange  | amq.match (e amq.headers no RabbitMQ |
 
 Além do tipo, exchanges são declaradas com um número de atributos, os mais importantes são:
 - Nome

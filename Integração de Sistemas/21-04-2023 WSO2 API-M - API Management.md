@@ -34,6 +34,7 @@ No cenário de exemplo, implementaremos um ciclo de vida completo de uma API uti
 
 4. Selecione `REST Api` na tela inicial e então em <span style="color:#FF7043">Start From Scratch</span>.
 5. Adicione os detalhes da API.
+
 |    Name    | Context | Version |                    Endpoint                     |
 |:----------:|:-------:|:-------:|:-----------------------------------------------:|
 | HelloWorld | /hello  |  1.0.0  | http://run.mocky.io/v2/5185415ba171ea3a00704eed |
@@ -59,9 +60,10 @@ b. Clique em <span style="color:#FF7043"><b>SUBSCRIPTION & KEY GENERATION WIZARD
 
 c. <span style="color:#FF7043">Crie</span> a aplicação OAuth 2.0.
 Coloque o nome da aplicação, e clique em **Next** sem mudar nenhum dos valores padrão.
-|    Application Name    | Per Token Quota |                   
-|:----------:|:-------:|
-| Greetings | 50PerMin  |
+
+| Application Name | Per Token Quota |
+|:----------------:|:---------------:|
+|    Greetings     |    50PerMin     |
 
 d. <span style="color:#FF7043">Inscreva</span> a aplicação na API.
 Isso inscreve a aplicação `Greetings` na API `HelloWorld` no Bussiness Plan selecionado. Clique em **Next** sem modificar nenhum dos valores padrão.
